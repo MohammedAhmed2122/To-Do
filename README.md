@@ -14,5 +14,12 @@ Create a task
 check out previous tasks
 Home Page description 
 
+## Fix
+  1. Make a delete function.
+  2. Set deadline.
+  3. Add alerts.
+  4. Logout (solved)
+
+
 
 
