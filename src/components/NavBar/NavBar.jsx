@@ -9,7 +9,7 @@ function NavBar(props) {
         // Update state will also cause a re-render
         setUser(null);
     }
-dc
+
     return (
         <div>
             <nav>
