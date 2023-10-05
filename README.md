@@ -10,9 +10,9 @@ Currently, two official plugins are available:
 
 
 # Technologies Used
-MongoDB
-Express.js
-React
-Node.js
-Vite.js
-github
+  MongoDB
+  Express.js
+  React
+  Node.js
+  Vite.js
+  Github
